@@ -11,7 +11,7 @@ Strategic Benchmarking of Student Housing Policies and their correlation with st
 ---
 
 ## Overview
-This repository contains a comprehensive analysis of housing residency policies and their correlation with student retention across 22 U.S. universities (2023–2025). The research benchmarks institutional policies to identify which approaches—ranging from voluntary housing to two-year mandates—most effectively support freshman-to-sophomore persistence.
+This repository contains a comprehensive analysis of housing residency policies and their correlation with student retention across 22 U.S. universities (2023–2025). The research benchmarks institutional policies to identify which approaches, ranging from voluntary housing to two-year mandates most effectively support freshman-to-sophomore persistence.
 
 ---
 
